@@ -1,0 +1,17 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    text-decoration: none;
+    background: transparent;
+font-family: "Poppins" sans-serif;
+font-family: 'DM Serif Display', serif;
+
+}
+
+body{
+    background:white;
+    color: black;
+    overflow: hidden;
+    overflow-y: scroll;
+}

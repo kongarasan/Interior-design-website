@@ -1,0 +1,70 @@
+.living{
+    display:flex ;
+    flex-direction: row;
+    justify-content:space-evenly;
+    margin-top: -100px;
+}
+
+.living img{
+    height:500px;
+    width: 450px;
+}
+
+.living h1{
+    color: #292F36;
+    text-align: left;
+    margin-top: 40px;
+}
+
+.living p{
+    font-size: 12;
+    font-family: serif;
+    color: #4D5053;
+    text-align: left;
+    margin-top: 30px;
+}
+
+.contact{
+    display: flex;
+    flex-direction: row;
+    height: 93px;
+    width: 270px;
+    margin-top: 40px;
+}
+.contact-img img{
+    height: 63px;
+    width: 63px;
+    cursor: pointer;
+
+}
+.contact-num { 
+    margin: 5px 15px;
+}
+
+.contact-num p{
+    margin-top: 0px;
+    font-size: 18px;
+    color: #4D5053;
+}
+
+.contact-num h4{
+    font-size: 20px;
+    color: #4D5053;
+    text-align: left;
+}
+.btn{
+    height: 70px;
+    width: 200px;
+    display: flex;
+    background: #292F36;
+    border-radius: 18px;
+    color: white;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 16px;
+    
+    
+}
