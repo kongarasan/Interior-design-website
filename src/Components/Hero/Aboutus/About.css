@@ -1,0 +1,68 @@
+.about{
+    height: 480px;
+    width: 1000px;
+    margin: 130px 160px;
+    background: #F4F0EC;
+    border-radius: 70px;
+    justify-content: center;
+    align-items: center ;
+    
+}
+
+.about h1{
+    text-align: center;
+    color: #292F36;
+    padding-top: 60px;
+    
+}
+
+.image{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    margin: 30px;
+}
+
+.image img{
+    height: 57px;
+    width: 57px;
+
+    align-items: center;
+    justify-content: center;
+}
+.name{
+    margin: 10px 15px;
+}
+
+.name p{
+    color: #4D5053;
+    font-size: 16px;
+    font-family: serif;
+    text-align: left;
+}
+
+.name h4{
+    color: #292F36;
+}
+
+.client{
+  margin-top: 50px;
+    border-radius: 50px;
+    height: 230px;
+    width: 300px;
+    align-items: center;
+    background: #fff;
+    justify-items: center;
+    justify-content: center;
+}
+.client p{
+    font-size: 16px;
+    font-family: serif;
+    color: #4D5053;
+
+}
+.us{
+    display: flex;
+    justify-content: space-evenly;
+}
