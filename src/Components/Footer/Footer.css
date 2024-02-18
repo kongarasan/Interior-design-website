@@ -1,0 +1,135 @@
+.footer{
+    padding: 50px 80px;
+}
+
+
+.main-footer{
+    display: flex;
+    
+    justify-content: space-evenly;
+
+}
+.brand{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.brand-logo{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    color: #292F36;
+    align-items: center;
+}
+
+.brand-logo img{
+    height: 30px;
+    width: 30px;
+}
+
+.brand p{
+  font-size: 16px;
+  font-family:sans-serif;
+  color: #4D5053;
+  text-align: left;
+  padding: 10px ;
+  margin-left: 120px;
+  font-style: italic;
+
+  
+}
+
+
+.social_media{
+    display: flex;
+    flex-direction: row;
+       gap:30px;
+       align-items: center;
+       margin-top: 20px;
+}
+.social_media .fb{
+    height: 22px;
+    width: 12px;
+    cursor: pointer;
+    
+}
+
+.social_media .lk{
+    height: 22px;
+    width: 16px;
+    cursor: pointer;
+}
+
+.social_media .tw{
+    height: 18px;
+    width: 18px;
+    cursor: pointer;
+}
+
+.social_media .ig{
+    height: 20px;
+    width: 17px;
+    cursor: pointer;
+}
+.pages{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    
+}
+.pages-class{
+  margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-size: 16px;
+    color: #4D5053;
+    align-items: start;
+    list-style-type: none;
+   
+
+
+}
+
+.pages-class li{
+    cursor: pointer;
+    font-family: sans-serif;
+    font-weight: 200    ;
+    
+}
+.services{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    
+}
+
+.contacts{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-top: 0px;
+    
+}
+
+.contacts p{
+    text-align: start;
+    margin-top: 30px;
+    color: #4D5053;
+    font-family: sans-serif;
+    font-weight: 200    ;
+}
+.footer-copyright{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
+    margin-bottom: 30px;
+    color: #4D5053;
+    font-size: 16px;
+    margin-top: 70px;
+}
+

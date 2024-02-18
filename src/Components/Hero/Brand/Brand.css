@@ -1,0 +1,39 @@
+.brandlogo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px 80px;
+
+}
+
+.brandlogo .b01{
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+}
+
+
+.brandlogo .b02{
+    height: 102px;
+    width: 102px;
+    cursor: pointer;
+}
+
+.brandlogo .b03{
+    height: 42px;
+    width: 160px;
+    cursor: pointer;
+}
+
+.brandlogo .b04{
+    width: 140px;
+    height: 44px;
+    cursor: pointer;
+}
+
+.brandlogo .b05{
+    height: 47px;
+    width: 116px;
+    cursor: pointer;
+}
