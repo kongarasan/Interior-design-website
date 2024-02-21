@@ -53,9 +53,18 @@
     width: 300px;
     align-items: center;
     background: #fff;
+  
     justify-items: center;
     justify-content: center;
+    cursor: pointer;
 }
+.client:hover{
+    background: #FAF0EC;
+    border-style: groove;
+    
+}
+
+
 .client p{
     font-size: 16px;
     font-family: serif;
