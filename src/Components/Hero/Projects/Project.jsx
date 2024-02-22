@@ -61,6 +61,30 @@ const Project = () => {
 
         </div>
         </div>
+
+    <div className='count'>
+    <div className='count-Num'>
+        <h1>12</h1>
+        <span>Years Of Experiance</span>
+    </div>
+    <div className='line'></div>
+    <div className='count-Num'>
+        <h1>85</h1>
+        <span>Success Project</span>
+    </div>
+    <div className='line'></div>
+    <div className='count-Num'>
+        <h1>15</h1>
+        <span>Active Project</span>
+    </div>
+    <div className='line'></div>
+    <div className='count-Num'>
+        <h1>95</h1>
+        <span>Happy Customer</span>
+    </div>
+
+
+    </div>
     </div>
   )
 }
