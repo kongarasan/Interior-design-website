@@ -6,6 +6,7 @@ import About from '../Hero/Aboutus/About'
 import Brand from '../Hero/Brand/Brand'
 import Footer from '../Footer/Footer'
 import Project from '../Hero/Projects/Project'
+import News from '../Hero/News/News'
 
 const Home = () => {
   return (
@@ -16,6 +17,7 @@ const Home = () => {
     <About/>
     <Brand/>
     <Project/>
+    <News/>
     <Footer/>
    </div>
   )

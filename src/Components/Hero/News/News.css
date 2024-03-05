@@ -1,0 +1,155 @@
+.News h1{
+    margin-top: 50px;
+}
+
+.News p{
+    font-size: 12px;
+    margin-top: 10px;
+    color: #4D5053;
+}
+
+.division .kitchen-design{
+     height: 380px;
+     width: 280px;
+     background-color: white;
+   
+   margin-left: 20px;
+   border-radius: 30px;
+   border-style:solid ;
+   border-color: #E7E7E7;
+   border-width: 1px;
+
+}
+.division .kitchen-design h3{
+    padding-top: 25px;
+    color: #292F36;
+    text-align: left;
+    margin-left: 15px;
+}
+
+.kitchen-img img{
+    height: 60%;
+    width: 90%;
+    margin: 15px 15px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    
+}
+
+.division-name{
+    margin-top: -70px;
+    height: 25px;
+    width: 90px;
+    margin-left: 30px;
+    background: white;
+    position: relative;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+
+}
+.division-name p{
+   padding-top: 5px;
+}
+
+.division{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    margin-right: 100px;
+  
+}
+.division .living-design{
+    height: 380px;
+    width: 280px;
+    background-color: #F4F0EC  ;
+  
+  margin-left: 20px;
+  border-radius: 30px;
+  border-style:solid ;
+  border-color: #E7E7E7;
+  border-width: 1px;
+
+}
+.division .living-design h3{
+    padding-top: 25px;
+    color: #292F36;
+    text-align: left;
+    margin-left: 15px;
+}
+
+.division .interior-design{
+    height: 380px;
+    width: 280px;
+    background-color: white;
+  
+  margin-left: 20px;
+  border-radius: 30px;
+  border-style:solid ;
+  border-color: #E7E7E7;
+  border-width: 1px;
+
+}
+
+.division .interior-design h3{
+    padding-top: 25px;
+    color: #292F36;
+    text-align: left;
+    margin-left: 15px;
+}
+
+.publish-icon{
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    background: #F4F0EC;
+    cursor: pointer;
+    
+}
+.publish-date{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+.publish-icon img{
+    position: relative;
+   height: 15px;
+   width: 10px;
+   align-items: center;
+  margin-top: 30%;
+   }
+
+   .publish-icon-l{
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    background: white;
+    cursor: pointer;
+
+   }
+
+   .publish-icon-l img{
+    position: relative;
+    height: 15px;
+    width: 10px;
+    align-items: center;
+   margin-top: 30%;
+
+   }
+   .News-join{
+    height:250px;
+    width: 800px;
+    background: #292F36;
+    margin: 70px 520px;
+border-radius: 50px;
+   }
+   .News-join h1{
+    color: white;
+    letter-spacing: 1px;
+   }
+
+   .News-join p{
+    color: white;
+    letter-spacing: 1px;
+    font-size: 12px;
+   }

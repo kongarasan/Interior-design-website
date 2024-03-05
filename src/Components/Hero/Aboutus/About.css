@@ -1,11 +1,12 @@
 .about{
     height: 480px;
     width: 1000px;
-    margin: 130px 160px;
+    margin: 130px 450px;
     background: #F4F0EC;
     border-radius: 70px;
     justify-content: center;
     align-items: center ;
+  
     
 }
 
@@ -60,7 +61,8 @@
 }
 .client:hover{
     background: #FAF0EC;
-    border-style: groove;
+    border-style:initial;
+    border: 1px solid black;
     
 }
 
