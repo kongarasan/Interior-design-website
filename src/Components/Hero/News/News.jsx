@@ -4,6 +4,7 @@ import kitchen from "../../../assests/kitchen.png"
 import living from "../../../assests/living01.png"
 import interior from "../../../assests/interior.png"
 import arrow from "../../../assests/arrow.png"
+import arrow1 from "../../../assests/arrow1.png"
 const News = () => {
     return (
         <div className='News'>
@@ -65,6 +66,10 @@ const News = () => {
          <div className='News-join'>
             <h1>Wanna join the interno?</h1>
             <p>It is a long established fact  will be distracted</p>
+            <div className='contact-btn'>
+                <p>Contact with us</p>
+                 <img src={arrow1}></img>
+            </div>
          </div>
 
         </div>
