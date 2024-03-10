@@ -20,7 +20,7 @@ const News = () => {
 
                     </div>
 
-                    <h3>Let’s Get Solution For<br/>Building Construction<br/> Work.</h3>
+                    <h3>Let’s Get Solution For<br />Building Construction<br /> Work.</h3>
                     <div className='publish-date'>
                         <p>25 December,2022 </p>
                         <div className='publish-icon'><img src={arrow}></img></div>
@@ -36,9 +36,9 @@ const News = () => {
                             <p>Living Design</p>
                         </div>
                     </div>
-                    
-                    <h3>Low Cost Latest Invented<br/> Interior Designing<br/> Ideas.</h3>
-             
+
+                    <h3>Low Cost Latest Invented<br /> Interior Designing<br /> Ideas.</h3>
+
                     <div className='publish-date'>
                         <p>25 December,2022 </p>
                         <div className='publish-icon-l'><img src={arrow}></img></div>
@@ -54,7 +54,7 @@ const News = () => {
                         </div>
                     </div>
 
-                    <h3>Best For Any Office &<br/> Business Interior <br/>Solution</h3>
+                    <h3>Best For Any Office &<br /> Business Interior <br />Solution</h3>
                     <div className='publish-date'>
                         <p>25 December,2022 </p>
                         <div className='publish-icon'><img src={arrow}></img></div>
@@ -62,15 +62,15 @@ const News = () => {
                     </div>
                 </div>
             </div>
-
-         <div className='News-join'>
-            <h1>Wanna join the interno?</h1>
-            <p>It is a long established fact  will be distracted</p>
-            <div className='contact-btn'>
-                <p>Contact with us</p>
-                 <img src={arrow1}></img>
+          
+            <div className='News-join'>
+                <h1>Wanna join the interno?</h1>
+                <p>It is a long established fact  will be distracted</p>
+                <button className='contact-btn'>
+                    <p>Contact with us</p>
+                    <img src={arrow1}></img>
+                </button>
             </div>
-         </div>
 
         </div>
     )
